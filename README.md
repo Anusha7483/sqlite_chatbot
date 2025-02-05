@@ -55,7 +55,7 @@ chat_assistant/
    python app.py
    ```
    The application will start on:
-   http://127.0.0.1:5000
+
    https://sqlite-chatbot-1.onrender.com
 
 4. **Access the Chat Assistant**
